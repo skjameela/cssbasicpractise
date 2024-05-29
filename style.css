@@ -1,0 +1,56 @@
+body{
+    background-color:burlywood;
+}
+
+.kk{
+    padding:83px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+img{
+    height:250px;
+    width:250px;
+    border: 3px solid black;
+    border-radius:5px;
+}
+
+h1{
+    color:brown;
+    text-shadow:5px 5px 5px gray;
+    font-family: Tahoma;
+    font-size: 50px;
+
+    border: 2px solid gray;
+    width :560px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#mm{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    text-align: center;
+    text-underline-offset:unset;
+    
+
+}
+
+.rcbHead{
+    width:650px;
+}
+
+.rcbNav
+{
+    font-size: 30px;;
+}
